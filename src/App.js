@@ -2,6 +2,10 @@ import logo from './logo.svg';
 import './App.css';
 
 function App() {
+  window.electronAPI2.getScreenId((event,ip)=>{
+    console.log(ip)
+  })
+  console.log(window.electronAPI2.getUsers())
   return (
     <div className="App">
       <header className="App-header">
