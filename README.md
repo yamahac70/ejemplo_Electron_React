@@ -9,7 +9,8 @@ para luego añadir los imports necesarios
 ##`IMPORTANTE `
 `A LA HORA DE HACER BUILD SI ESTA TRABAJANDO CON VITE JS `
 APARECERA DE LA SIGUIENTE MANERA 
-`
+
+```
 <!DOCTYPE html>
 <html lang="en">
   <head>
@@ -25,11 +26,12 @@ APARECERA DE LA SIGUIENTE MANERA
     
   </body>
 </html>
-`
+```
+
 Y SE TIENE QUE AGREGAR EL `.` DELANTE PARA INDICAR LA RUTA QUEDANDO ASI 
 
+```
 
-`
 <!DOCTYPE html>
 <html lang="en">
   <head>
@@ -45,5 +47,4 @@ Y SE TIENE QUE AGREGAR EL `.` DELANTE PARA INDICAR LA RUTA QUEDANDO ASI
     
   </body>
 </html>
-
-`
+```
